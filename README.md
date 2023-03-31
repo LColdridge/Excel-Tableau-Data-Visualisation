@@ -10,4 +10,4 @@ Rank, Country, GDP per capita, Year of Information, Life Expectancy at Birth
 - Create a visual report that will show the data in the form of charts and maps using Tableau to the clients requirements
 
 # Dashboard:
-https://public.tableau.com/views/TheWealthofNations_16761408397060/TheWealthofNationsDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link
+[The Wealth of The Nations Dashboard - Tableau](https://public.tableau.com/views/TheWealthofNations_16761408397060/TheWealthofNationsDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
