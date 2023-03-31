@@ -1,4 +1,4 @@
-# Excel Tableau Data Visualisation
+# Excel Tableau Data Visualisation Project
 For this project, I used an open source dataset on the Wealth of the Nations, which includes worksheets on GDP per capita, Life Expectancy at Birth, and Smartphone Users Worldwide. I formatted the data in Excel, created a worksheet with filtered data, and produced a dashboard within Tableau based on some of my tables in the Excel dataset.
 
 # Data:
