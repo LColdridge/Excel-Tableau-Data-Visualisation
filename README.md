@@ -11,3 +11,4 @@ Rank, Country, GDP per capita, Year of Information, Life Expectancy at Birth
 
 # Dashboard:
 [The Wealth of The Nations Dashboard - Tableau](https://public.tableau.com/views/TheWealthofNations_16761408397060/TheWealthofNationsDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
+![The Wealth of Nations](https://user-images.githubusercontent.com/124378648/229092152-c2a0f69b-47af-459b-93a5-98e8b5b43b06.gif)
